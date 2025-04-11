@@ -6,7 +6,7 @@ Este repositório centraliza meus estudos em diferentes áreas da programação,
 
 ## 📂 Estrutura do Repositório
 
-### 📘 [GitHub](./GitHub)
+### 📘 [GitHub](./Github)
 
 Reúne desafios introdutórios de lógica implementados em Go (Golang), com foco em manipulação de dados e operações básicas.
 
