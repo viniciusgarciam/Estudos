@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="Express&#227;o Aritimetica 2"/>
+        <attribute name="authors" value="medeirosvg"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-08-07 05:12:25 "/>
+        <attribute name="created" value="bWVkZWlyb3N2ZztTRVMzNzA4ODY7MjAyNC0wOC0wNzsiMDU6MDY6MDQgIjsyODI1"/>
+        <attribute name="edited" value="bWVkZWlyb3N2ZztTRVMzNzA4ODY7MjAyNC0wOC0wNzsiMDU6MTI6MjUgIjsxOzI5MzM="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="a, b, c" type="Integer" array="False" size=""/>
+            <assign variable="a" expression="1"/>
+            <assign variable="b" expression="1"/>
+            <assign variable="c" expression="3"/>
+            <output expression="a&lt;b" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

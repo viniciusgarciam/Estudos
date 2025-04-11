@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="Express&#227;o Aritimetica 3"/>
+        <attribute name="authors" value="medeirosvg"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-08-07 05:19:29 "/>
+        <attribute name="created" value="bWVkZWlyb3N2ZztTRVMzNzA4ODY7MjAyNC0wOC0wNzsiMDU6MTI6MjYgIjsyODI2"/>
+        <attribute name="edited" value="bWVkZWlyb3N2ZztTRVMzNzA4ODY7MjAyNC0wOC0wNzsiMDU6MTk6MjkgIjsxOzI5NDQ="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="Cliente" type="String" array="False" size=""/>
+            <declare name="Cartao" type="Boolean" array="False" size=""/>
+            <declare name="numero" type="String" array="False" size=""/>
+            <input variable="cliente"/>
+            <input variable="cartao"/>
+            <if expression="cartao">
+                <then>
+                    <input variable="numero"/>
+                </then>
+                <else>
+                    <output expression="&quot;Infelismente s&#243; aceitamos cart&#227;o!&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

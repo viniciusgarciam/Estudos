@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="Express&#227;o Aritimetica"/>
+        <attribute name="authors" value="medeirosvg"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-08-07 05:05:59 "/>
+        <attribute name="created" value="bWVkZWlyb3N2ZztTRVMzNzA4ODY7MjAyNC0wOC0wNzsiMDQ6NDc6MjQgIjsyODMx"/>
+        <attribute name="edited" value="bWVkZWlyb3N2ZztTRVMzNzA4ODY7MjAyNC0wOC0wNzsiMDU6MDU6NTkgIjsxOzI5NDI="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="a, b, c" type="Integer" array="False" size=""/>
+            <assign variable="a" expression="2"/>
+            <assign variable="b" expression="a+3"/>
+            <assign variable="c" expression="a+b"/>
+            <output expression="a" newline="True"/>
+            <output expression="b" newline="True"/>
+            <output expression="c" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="Express&#227;o Aritimetica 5"/>
+        <attribute name="authors" value="medeirosvg"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-08-07 06:13:47 "/>
+        <attribute name="created" value="bWVkZWlyb3N2ZztTRVMzNzA4ODY7MjAyNC0wOC0wNzsiMDU6MzQ6MzQgIjsyODI5"/>
+        <attribute name="edited" value="bWVkZWlyb3N2ZztTRVMzNzA4ODY7MjAyNC0wOC0wNzsiMDY6MTM6NDcgIjsxOzI5Mzk="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nome, sobrenome" type="String" array="False" size=""/>
+            <declare name="idade" type="Integer" array="False" size=""/>
+            <output expression="&quot;Digite o seu nome:&quot;" newline="True"/>
+            <input variable="nome"/>
+            <output expression="&quot;Digite o seu sobrenome:&quot;" newline="True"/>
+            <input variable="sobrenome"/>
+            <output expression="&quot;Qual a sua idade?&quot;" newline="True"/>
+            <input variable="idade"/>
+            <output expression="&quot;O seu nome completo &#233;:&quot; &amp;nome &amp;&quot; &quot; &amp;sobrenome &amp;&#13;&#10;&quot; Sua idade &#233;: &quot; &amp;idade" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
