@@ -20,7 +20,7 @@ Reúne desafios introdutórios de lógica implementados em Go (Golang), com foco
 
 ---
 
-### 📘 [Golang](./Golang)
+### 📘 [Golang](./Go Developer)
 
 Projetos e scripts desenvolvidos durante meu aprendizado mais aprofundado na linguagem Go.
 
