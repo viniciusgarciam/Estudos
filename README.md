@@ -20,7 +20,7 @@ Reúne desafios introdutórios de lógica implementados em Go (Golang), com foco
 
 ---
 
-### 📘 [Golang](./"Go Developer")
+### 📘 [Golang](./Go Developer)
 
 Projetos e scripts desenvolvidos durante meu aprendizado mais aprofundado na linguagem Go.
 
@@ -38,7 +38,7 @@ Projetos e scripts desenvolvidos durante meu aprendizado mais aprofundado na lin
 
 ---
 
-### 📘 [Lógica de Programação](./"Linguagem de Programação")
+### 📘 [Lógica de Programação](./Linguagem de Programação)
 
 Contém exercícios desenvolvidos com **Portugol Studio** e **Flowgorithm**, voltados para o raciocínio lógico computacional, uso de vetores, matrizes, operadores aritméticos e estruturas de decisão.
 
