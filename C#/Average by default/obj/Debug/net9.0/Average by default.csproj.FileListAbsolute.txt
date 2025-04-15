@@ -1,0 +1,15 @@
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Average by default/bin/Debug/net9.0/Average by default
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Average by default/bin/Debug/net9.0/Average by default.deps.json
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Average by default/bin/Debug/net9.0/Average by default.runtimeconfig.json
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Average by default/bin/Debug/net9.0/Average by default.dll
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Average by default/bin/Debug/net9.0/Average by default.pdb
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Average by default/obj/Debug/net9.0/Average by default.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Average by default/obj/Debug/net9.0/Average by default.AssemblyInfoInputs.cache
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Average by default/obj/Debug/net9.0/Average by default.AssemblyInfo.cs
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Average by default/obj/Debug/net9.0/Average by default.csproj.CoreCompileInputs.cache
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Average by default/obj/Debug/net9.0/Average by default.sourcelink.json
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Average by default/obj/Debug/net9.0/Average by default.dll
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Average by default/obj/Debug/net9.0/refint/Average by default.dll
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Average by default/obj/Debug/net9.0/Average by default.pdb
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Average by default/obj/Debug/net9.0/Average by default.genruntimeconfig.cache
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Average by default/obj/Debug/net9.0/ref/Average by default.dll

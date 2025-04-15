@@ -1,0 +1,15 @@
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Fishing/obj/Debug/net9.0/Fishing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Fishing/obj/Debug/net9.0/Fishing.AssemblyInfoInputs.cache
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Fishing/obj/Debug/net9.0/Fishing.AssemblyInfo.cs
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Fishing/obj/Debug/net9.0/Fishing.csproj.CoreCompileInputs.cache
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Fishing/obj/Debug/net9.0/Fishing.sourcelink.json
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Fishing/bin/Debug/net9.0/Fishing
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Fishing/bin/Debug/net9.0/Fishing.deps.json
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Fishing/bin/Debug/net9.0/Fishing.runtimeconfig.json
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Fishing/bin/Debug/net9.0/Fishing.dll
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Fishing/bin/Debug/net9.0/Fishing.pdb
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Fishing/obj/Debug/net9.0/Fishing.dll
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Fishing/obj/Debug/net9.0/refint/Fishing.dll
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Fishing/obj/Debug/net9.0/Fishing.pdb
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Fishing/obj/Debug/net9.0/Fishing.genruntimeconfig.cache
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Fishing/obj/Debug/net9.0/ref/Fishing.dll

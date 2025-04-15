@@ -1,0 +1,5 @@
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Average by default/obj/Release/net9.0/osx-x64/Average by default.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Average by default/obj/Release/net9.0/osx-x64/Average by default.AssemblyInfoInputs.cache
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Average by default/obj/Release/net9.0/osx-x64/Average by default.AssemblyInfo.cs
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Average by default/obj/Release/net9.0/osx-x64/Average by default.csproj.CoreCompileInputs.cache
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Average by default/obj/Release/net9.0/osx-x64/Average by default.sourcelink.json

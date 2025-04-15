@@ -1,0 +1,15 @@
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Election/obj/Debug/net9.0/Election.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Election/obj/Debug/net9.0/Election.AssemblyInfoInputs.cache
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Election/obj/Debug/net9.0/Election.AssemblyInfo.cs
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Election/obj/Debug/net9.0/Election.csproj.CoreCompileInputs.cache
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Election/obj/Debug/net9.0/Election.sourcelink.json
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Election/bin/Debug/net9.0/Election
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Election/bin/Debug/net9.0/Election.deps.json
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Election/bin/Debug/net9.0/Election.runtimeconfig.json
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Election/bin/Debug/net9.0/Election.dll
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Election/bin/Debug/net9.0/Election.pdb
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Election/obj/Debug/net9.0/Election.dll
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Election/obj/Debug/net9.0/refint/Election.dll
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Election/obj/Debug/net9.0/Election.pdb
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Election/obj/Debug/net9.0/Election.genruntimeconfig.cache
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Election/obj/Debug/net9.0/ref/Election.dll

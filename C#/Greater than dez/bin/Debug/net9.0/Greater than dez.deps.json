@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Greater than dez/1.0.0": {
+        "runtime": {
+          "Greater than dez.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Greater than dez/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

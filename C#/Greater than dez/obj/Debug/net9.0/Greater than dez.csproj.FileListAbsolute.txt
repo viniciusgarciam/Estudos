@@ -1,0 +1,15 @@
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Greater than dez/bin/Debug/net9.0/Greater than dez
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Greater than dez/bin/Debug/net9.0/Greater than dez.deps.json
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Greater than dez/bin/Debug/net9.0/Greater than dez.runtimeconfig.json
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Greater than dez/bin/Debug/net9.0/Greater than dez.dll
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Greater than dez/bin/Debug/net9.0/Greater than dez.pdb
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Greater than dez/obj/Debug/net9.0/Greater than dez.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Greater than dez/obj/Debug/net9.0/Greater than dez.AssemblyInfoInputs.cache
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Greater than dez/obj/Debug/net9.0/Greater than dez.AssemblyInfo.cs
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Greater than dez/obj/Debug/net9.0/Greater than dez.csproj.CoreCompileInputs.cache
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Greater than dez/obj/Debug/net9.0/Greater than dez.sourcelink.json
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Greater than dez/obj/Debug/net9.0/Greater than dez.dll
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Greater than dez/obj/Debug/net9.0/refint/Greater than dez.dll
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Greater than dez/obj/Debug/net9.0/Greater than dez.pdb
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Greater than dez/obj/Debug/net9.0/Greater than dez.genruntimeconfig.cache
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Greater than dez/obj/Debug/net9.0/ref/Greater than dez.dll

@@ -1,0 +1,15 @@
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Multiplication Table/bin/Debug/net9.0/Multiplication Table
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Multiplication Table/bin/Debug/net9.0/Multiplication Table.deps.json
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Multiplication Table/bin/Debug/net9.0/Multiplication Table.runtimeconfig.json
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Multiplication Table/bin/Debug/net9.0/Multiplication Table.dll
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Multiplication Table/bin/Debug/net9.0/Multiplication Table.pdb
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Multiplication Table/obj/Debug/net9.0/Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Multiplication Table/obj/Debug/net9.0/Multiplication Table.AssemblyInfoInputs.cache
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Multiplication Table/obj/Debug/net9.0/Multiplication Table.AssemblyInfo.cs
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Multiplication Table/obj/Debug/net9.0/Multiplication Table.csproj.CoreCompileInputs.cache
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Multiplication Table/obj/Debug/net9.0/Multiplication Table.sourcelink.json
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Multiplication Table/obj/Debug/net9.0/Multiplication Table.dll
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Multiplication Table/obj/Debug/net9.0/refint/Multiplication Table.dll
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Multiplication Table/obj/Debug/net9.0/Multiplication Table.pdb
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Multiplication Table/obj/Debug/net9.0/Multiplication Table.genruntimeconfig.cache
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Multiplication Table/obj/Debug/net9.0/ref/Multiplication Table.dll

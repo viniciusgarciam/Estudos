@@ -1,0 +1,15 @@
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Repeat Request/bin/Debug/net9.0/Repeat Request
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Repeat Request/bin/Debug/net9.0/Repeat Request.deps.json
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Repeat Request/bin/Debug/net9.0/Repeat Request.runtimeconfig.json
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Repeat Request/bin/Debug/net9.0/Repeat Request.dll
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Repeat Request/bin/Debug/net9.0/Repeat Request.pdb
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Repeat Request/obj/Debug/net9.0/Repeat Request.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Repeat Request/obj/Debug/net9.0/Repeat Request.AssemblyInfoInputs.cache
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Repeat Request/obj/Debug/net9.0/Repeat Request.AssemblyInfo.cs
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Repeat Request/obj/Debug/net9.0/Repeat Request.csproj.CoreCompileInputs.cache
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Repeat Request/obj/Debug/net9.0/Repeat Request.sourcelink.json
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Repeat Request/obj/Debug/net9.0/Repeat Request.dll
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Repeat Request/obj/Debug/net9.0/refint/Repeat Request.dll
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Repeat Request/obj/Debug/net9.0/Repeat Request.pdb
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Repeat Request/obj/Debug/net9.0/Repeat Request.genruntimeconfig.cache
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Repeat Request/obj/Debug/net9.0/ref/Repeat Request.dll

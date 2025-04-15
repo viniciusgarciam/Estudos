@@ -1,0 +1,15 @@
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Porcentagem/obj/Debug/net9.0/Porcentagem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Porcentagem/obj/Debug/net9.0/Porcentagem.AssemblyInfoInputs.cache
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Porcentagem/obj/Debug/net9.0/Porcentagem.AssemblyInfo.cs
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Porcentagem/obj/Debug/net9.0/Porcentagem.csproj.CoreCompileInputs.cache
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Porcentagem/obj/Debug/net9.0/Porcentagem.sourcelink.json
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Porcentagem/bin/Debug/net9.0/Porcentagem
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Porcentagem/bin/Debug/net9.0/Porcentagem.deps.json
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Porcentagem/bin/Debug/net9.0/Porcentagem.runtimeconfig.json
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Porcentagem/bin/Debug/net9.0/Porcentagem.dll
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Porcentagem/bin/Debug/net9.0/Porcentagem.pdb
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Porcentagem/obj/Debug/net9.0/Porcentagem.dll
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Porcentagem/obj/Debug/net9.0/refint/Porcentagem.dll
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Porcentagem/obj/Debug/net9.0/Porcentagem.pdb
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Porcentagem/obj/Debug/net9.0/Porcentagem.genruntimeconfig.cache
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Porcentagem/obj/Debug/net9.0/ref/Porcentagem.dll

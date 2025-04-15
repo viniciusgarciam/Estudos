@@ -1,65 +1,87 @@
-# 🧠 Repositório de Estudos - Vinicius Garcia
+# 🧠 Study Repository - Vinicius Garcia
 
-Este repositório centraliza meus estudos em diferentes áreas da programação, com foco em fundamentos de lógica, linguagem Go (Golang) e práticas com GitHub. Cada pasta contém exercícios resolvidos, desafios práticos e anotações importantes feitas durante minha jornada como desenvolvedor em formação.
+This repository centralizes my studies in various programming areas, focusing on logic fundamentals, the Go (Golang) language, C# basics, and GitHub practices. Each folder contains solved exercises, practical challenges, and important notes made during my journey as a developer in training.
 
 ---
 
-## 📂 Estrutura do Repositório
+## 📂 Repository Structure
 
 ### 📘 [GitHub](./Github)
 
-Reúne desafios introdutórios de lógica implementados em Go (Golang), com foco em manipulação de dados e operações básicas.
+Contains introductory logic challenges implemented in Go (Golang), focusing on data manipulation and basic operations.
 
-**Desafios incluídos:**
+**Included Challenges:**
 
-- ✅ Concatenação de dados
-- ✅ Repetição de texto com `strings.Repeat()`
-- ✅ Operações matemáticas simples (soma, subtração, multiplicação, divisão)
+- ✅ Data concatenation
+- ✅ Text repetition with `strings.Repeat()`
+- ✅ Simple mathematical operations (addition, subtraction, multiplication, division)
 
-> Ideal para quem está iniciando com a linguagem Go e deseja praticar entradas e saídas, uso de pacotes e lógica simples.
+> Ideal for those starting with the Go language and looking to practice input/output, package usage, and simple logic.
 
 ---
 
 ### 📘 [Golang](./Go%20Developer)
 
-Projetos e scripts desenvolvidos durante meu aprendizado mais aprofundado na linguagem Go.
+Projects and scripts developed during my deeper learning in the Go language.
 
-**Projetos incluídos:**
+**Included Projects:**
 
-- 🧾 API de Clientes com `mux` e consumo de JSON externo
-- 🧮 Calculadora com parâmetros variádicos
-- 🌡️ Conversão de temperaturas (Kelvin → Celsius)
-- 🎯 Jogo "Pin e Pan" com divisibilidade
-- 🔢 Impressão de múltiplos de 3
-- 🏓 Ping Pong com Goroutines e canais
-- 🔁 Reforço em estrutura de funções com nova calculadora
+- 🧾 Client API with `mux` and external JSON consumption
+- 🧮 Calculator with variadic parameters
+- 🌡️ Temperature conversion (Kelvin → Celsius)
+- 🎯 "Pin and Pan" game with divisibility
+- 🔢 Printing multiples of 3
+- 🏓 Ping Pong with Goroutines and channels
+- 🔁 Reinforcement in function structure with a new calculator
 
-> Este módulo demonstra domínio crescente na linguagem, incluindo conceitos como concorrência, rotas HTTP e estruturação de código.
-
----
-
-### 📘 [Lógica de Programação](./Linhagem%20de%20Programacao)
-
-Contém exercícios desenvolvidos com **Portugol Studio** e **Flowgorithm**, voltados para o raciocínio lógico computacional, uso de vetores, matrizes, operadores aritméticos e estruturas de decisão.
-
-**Tópicos abordados:**
-
-- 📌 Cálculo de médias e validações
-- 📌 Vendas trimestrais
-- 📌 Tabuadas e repetições com `faca...enquanto` e `enquanto`
-- 📌 Vetores e Matrizes (2D e 3D)
-- 📌 Menus com `escolha...caso`
-- 📌 Expressões aritméticas em fluxogramas (Flowgorithm)
-- ➕ Soma de intervalos com função
-
-> Ideal para reforçar a base lógica de qualquer linguagem de programação.
+> This module demonstrates growing mastery in the language, including concepts like concurrency, HTTP routing, and code structuring.
 
 ---
 
-## 🚀 Como usar este repositório
+### 📘 [Programming Logic](./Linhagem%20de%20Programacao)
 
-1. Navegue pelas pastas para encontrar os projetos e exercícios desejados.
-2. A maioria dos exemplos em Go pode ser executada com:
+Contains exercises developed with **Portugol Studio** and **Flowgorithm**, aimed at computational logical reasoning, use of vectors, matrices, arithmetic operators, and decision structures.
 
-```bash
-go run nome-do-arquivo.go
+**Topics Covered:**
+
+- 📌 Calculation of averages and validations
+- 📌 Quarterly sales
+- 📌 Multiplication tables and repetitions with `do...while` and `while`
+- 📌 Vectors and Matrices (2D and 3D)
+- 📌 Menus with `switch...case`
+- 📌 Arithmetic expressions in flowcharts (Flowgorithm)
+- ➕ Sum of intervals with function
+
+> Ideal for reinforcing the logical foundation of any programming language.
+
+---
+
+### 📘 [C# Fundamentals](./CSharp)
+
+A collection of console-based applications developed during the initial stages of learning C#, focusing on fundamental programming concepts.
+
+**Included Projects:**
+
+- 🔐 Password verification and access control
+- 🧮 Basic calculator with arithmetic operations
+- 🏫 Student grading system with attendance validation
+- 🗳️ Voting system with input validation
+- 🐟 Fishing regulation checker with fine calculation
+- ⛽ Fuel price calculator with discounts
+- 🔢 Maximum number finder among user inputs
+- 📊 Multiplication table generator using various loops
+- 🎁 Prize distribution calculator based on contributions
+- 💘 Tinder-style match evaluation based on user attributes
+- ➕ Sum of multiple numbers entered by the user
+
+> These projects are ideal for beginners to practice conditional logic, input handling, loops, and basic programming structures in C#.
+
+---
+
+## 🚀 How to Use This Repository
+
+1. Navigate through the folders to find the desired projects and exercises.
+2. Most Go examples can be executed with:
+
+   ```bash
+   go run filename.go

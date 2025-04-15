@@ -1,0 +1,11 @@
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Exercício 1/bin/Debug/net9.0/Exercício 1
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Exercício 1/bin/Debug/net9.0/Exercício 1.dll
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Exercício 1/bin/Debug/net9.0/Exercício 1.pdb
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Exercício 1/obj/Debug/net9.0/Exercício 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Exercício 1/obj/Debug/net9.0/Exercício 1.AssemblyInfoInputs.cache
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Exercício 1/obj/Debug/net9.0/Exercício 1.AssemblyInfo.cs
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Exercício 1/obj/Debug/net9.0/Exercício 1.csproj.CoreCompileInputs.cache
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Exercício 1/obj/Debug/net9.0/Exercício 1.sourcelink.json
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Exercício 1/obj/Debug/net9.0/Exercício 1.dll
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Exercício 1/obj/Debug/net9.0/refint/Exercício 1.dll
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Exercício 1/obj/Debug/net9.0/Exercício 1.pdb

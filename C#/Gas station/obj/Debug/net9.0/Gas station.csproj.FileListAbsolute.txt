@@ -1,0 +1,15 @@
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Gas station/bin/Debug/net9.0/Gas station
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Gas station/bin/Debug/net9.0/Gas station.deps.json
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Gas station/bin/Debug/net9.0/Gas station.runtimeconfig.json
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Gas station/bin/Debug/net9.0/Gas station.dll
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Gas station/bin/Debug/net9.0/Gas station.pdb
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Gas station/obj/Debug/net9.0/Gas station.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Gas station/obj/Debug/net9.0/Gas station.AssemblyInfoInputs.cache
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Gas station/obj/Debug/net9.0/Gas station.AssemblyInfo.cs
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Gas station/obj/Debug/net9.0/Gas station.csproj.CoreCompileInputs.cache
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Gas station/obj/Debug/net9.0/Gas station.sourcelink.json
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Gas station/obj/Debug/net9.0/Gas station.dll
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Gas station/obj/Debug/net9.0/refint/Gas station.dll
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Gas station/obj/Debug/net9.0/Gas station.pdb
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Gas station/obj/Debug/net9.0/Gas station.genruntimeconfig.cache
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Gas station/obj/Debug/net9.0/ref/Gas station.dll

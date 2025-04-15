@@ -1,0 +1,15 @@
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Senha/bin/Debug/net9.0/Senha
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Senha/bin/Debug/net9.0/Senha.deps.json
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Senha/bin/Debug/net9.0/Senha.runtimeconfig.json
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Senha/bin/Debug/net9.0/Senha.dll
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Senha/bin/Debug/net9.0/Senha.pdb
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Senha/obj/Debug/net9.0/Senha.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Senha/obj/Debug/net9.0/Senha.AssemblyInfoInputs.cache
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Senha/obj/Debug/net9.0/Senha.AssemblyInfo.cs
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Senha/obj/Debug/net9.0/Senha.csproj.CoreCompileInputs.cache
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Senha/obj/Debug/net9.0/Senha.sourcelink.json
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Senha/obj/Debug/net9.0/Senha.dll
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Senha/obj/Debug/net9.0/refint/Senha.dll
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Senha/obj/Debug/net9.0/Senha.pdb
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Senha/obj/Debug/net9.0/Senha.genruntimeconfig.cache
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Senha/obj/Debug/net9.0/ref/Senha.dll

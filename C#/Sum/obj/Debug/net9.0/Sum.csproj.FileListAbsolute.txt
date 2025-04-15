@@ -1,0 +1,15 @@
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Sum/bin/Debug/net9.0/Sum
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Sum/bin/Debug/net9.0/Sum.deps.json
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Sum/bin/Debug/net9.0/Sum.runtimeconfig.json
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Sum/bin/Debug/net9.0/Sum.dll
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Sum/bin/Debug/net9.0/Sum.pdb
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Sum/obj/Debug/net9.0/Sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Sum/obj/Debug/net9.0/Sum.AssemblyInfoInputs.cache
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Sum/obj/Debug/net9.0/Sum.AssemblyInfo.cs
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Sum/obj/Debug/net9.0/Sum.csproj.CoreCompileInputs.cache
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Sum/obj/Debug/net9.0/Sum.sourcelink.json
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Sum/obj/Debug/net9.0/Sum.dll
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Sum/obj/Debug/net9.0/refint/Sum.dll
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Sum/obj/Debug/net9.0/Sum.pdb
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Sum/obj/Debug/net9.0/Sum.genruntimeconfig.cache
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Sum/obj/Debug/net9.0/ref/Sum.dll

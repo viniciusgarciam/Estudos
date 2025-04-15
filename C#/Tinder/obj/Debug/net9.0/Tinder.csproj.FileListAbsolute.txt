@@ -1,0 +1,15 @@
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Tinder/bin/Debug/net9.0/Tinder
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Tinder/bin/Debug/net9.0/Tinder.deps.json
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Tinder/bin/Debug/net9.0/Tinder.runtimeconfig.json
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Tinder/bin/Debug/net9.0/Tinder.dll
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Tinder/bin/Debug/net9.0/Tinder.pdb
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Tinder/obj/Debug/net9.0/Tinder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Tinder/obj/Debug/net9.0/Tinder.AssemblyInfoInputs.cache
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Tinder/obj/Debug/net9.0/Tinder.AssemblyInfo.cs
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Tinder/obj/Debug/net9.0/Tinder.csproj.CoreCompileInputs.cache
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Tinder/obj/Debug/net9.0/Tinder.sourcelink.json
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Tinder/obj/Debug/net9.0/Tinder.dll
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Tinder/obj/Debug/net9.0/refint/Tinder.dll
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Tinder/obj/Debug/net9.0/Tinder.pdb
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Tinder/obj/Debug/net9.0/Tinder.genruntimeconfig.cache
+/Users/viniciusgarcia/Desktop/Dev/Estudos/C#/Tinder/obj/Debug/net9.0/ref/Tinder.dll
